@@ -114,13 +114,13 @@ Formatting is applied automatically:
 
 ## 🖼️ Screenshots
 
-> _(Placeholders — replace with your own screenshots)_
-
 ### 📊 Example Excel Output – Overview
-![Excel Overview Screenshot](screenshots/excel-overview.png)
+<img width="1870" height="760" alt="image" src="https://github.com/user-attachments/assets/f549b6b0-b935-4f16-b800-83923863321a" />
+
 
 ### 🧠 AI-Enriched Control Detail
-![Excel Detail Screenshot](screenshots/excel-detail.png)
+<img width="1745" height="763" alt="image" src="https://github.com/user-attachments/assets/14c4462d-296f-4119-806a-456c8636767e" />
+
 
 ---
 
@@ -151,4 +151,5 @@ Formatting is applied automatically:
 - Suitable for interviews, demos, and portfolio review  
 
 ---
+
 
