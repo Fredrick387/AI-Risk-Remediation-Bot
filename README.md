@@ -31,18 +31,6 @@ This project demonstrates a practical application of AI in **GRC, security opera
 
 ---
 
-## 📚 Table of Contents
-
-- Project Overview  
-- Data Flow & Architecture  
-- Scoring & Prioritization Logic  
-- Output Report Structure  
-- Screenshots  
-- Use Cases  
-- Future Enhancements  
-
----
-
 ## 🧠 Project Overview
 
 This tool was built to solve a common compliance pain point:  
@@ -163,3 +151,4 @@ Formatting is applied automatically:
 - Suitable for interviews, demos, and portfolio review  
 
 ---
+
